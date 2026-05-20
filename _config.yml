@@ -1,14 +1,19 @@
-title: <p align="center"> Gadvala Aakash Kumar</p>
-logo: assets/img/logo.jpeg 
-description: "Hi, I'm Aakash Kumar, a passionate Computer Science Engineering student currently pursuing my B.Tech at Global Institute of Engineering and Technology. I am interested in software development, machine learning, and emerging technologies. I enjoy building innovative projects, exploring new tools, and continuously improving my technical skills through practical learning and real-world applications. I'm particularly interested in the field of Data Science. I have good academic track record with a CGPA: 8.7."
+title: <p align="center"> Sajan Kedia </p>
+logo: /assets/img/logo.png
 
-# Social links
-linkedin_username: aakash-kumar-gadvala-190172325
-github_username: Gadvala
+description:
+  <p align="center">
+  <a href="C:\Users\plaov\OneDrive\Resume (3).pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/aakash-kumar-gadvala-190172325">LinkedIn</a> |
+  <a href="https://github.com/Gadvala">GitHub</a>
+  
+  <br>   
+  I am Aakash Kumar Gadvala, a highly driven third-year B.Tech student pursuing Computer Science and Engineering (CSE) at Global Institute of Engineering and Technology. 
+  I possess a solid academic background and a deep passion for leveraging technology to solve real-world problems.
+  
+  <br>
+  </p>
+
+
 
 theme: jekyll-theme-minimal
-
-# Optional: Add these if you want better formatting
-markdown: kramdown
-plugins:
-  - jekyll-seo-tag
