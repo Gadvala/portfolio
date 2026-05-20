@@ -8,7 +8,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Gadvala/fraud_detection)
 
-<center><img src="images/fraud_detection.jpg"/></center>
+<center><img src="assets/img/emotion_detection.png"/></center>
 
 ---
 ## Deep Learning
@@ -28,7 +28,7 @@ NumPy & Pandas
 Flask / Streamlit
 Scikit-learn
 
-<center><img src="images/emotion_detection.png""/></center>
+<center><img src="images/emotion_detection.png"/></center>
 
 ---
 
